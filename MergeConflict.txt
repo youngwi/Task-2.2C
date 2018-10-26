@@ -1,2 +1,3 @@
-Conflicting Message (conflict)
+Conflicting Message Fixed
 Conflicting Message 2
+
